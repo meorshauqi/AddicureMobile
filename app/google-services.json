@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955758131406",
+    "project_id": "medmap-e203d",
+    "storage_bucket": "medmap-e203d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955758131406:android:04321f91f385467092389f",
+        "android_client_info": {
+          "package_name": "com.example.medmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbyi-WscnEKoPsIrLEl4md9lTbKfF3AdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

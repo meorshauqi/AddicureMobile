@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#0068ff</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimaryDark">#f7ff00</color>
+    <color name="page_background_color">#7b98af</color> <!-- Replace with your desired color -->
+
+</resources>
